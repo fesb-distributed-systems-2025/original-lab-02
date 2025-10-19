@@ -1,6 +1,5 @@
-# pkaselj-lab-03
 
-This repository contains examples for Lab 03: Synchronization.
+This repository contains examples for Lab 02: Synchronization.
 
 ## Problem
 
